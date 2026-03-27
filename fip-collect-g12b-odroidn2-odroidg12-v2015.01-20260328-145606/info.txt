@@ -1,0 +1,6 @@
+Sat Mar 28 02:56:27 PM CDT 2026
+SOC: g12b
+BRANCH: odroidg12-v2015.01 (20260328)
+u-boot: 99215196b4ca5a4230a722c5bab9f3ed4caa0e5c
+b112cd23a95b5f80c169aceda1bc7dc78e2ebbc2
+BOARD: odroidn2
